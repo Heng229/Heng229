@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Heng229
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning react, js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Heng Chun Horn from MY
+- 👀 I’m interested in AI, Computer Vision
+- 🌱 I’m currently CV & AI algorithms
 
 <!---
 Heng229/Heng229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
