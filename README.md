@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Heng Chun Horn from MY
 - 👀 I’m interested in AI, Computer Vision
-- 🌱 I’m currently CV & AI algorithms
+- 🌱 I’m currently learning AI & CV algorithms
 
 <!---
 Heng229/Heng229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
